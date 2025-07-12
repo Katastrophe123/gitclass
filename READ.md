@@ -1,3 +1,4 @@
 ## this is my git class ##
 ## i am doing modification ##
-## I want to talk about add . ##
+## My Problem statement is StackIt – A Minimal Q&A Forum Platform##
+##I am Alone in my Team##
